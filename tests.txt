@@ -1,0 +1,2 @@
+Go to https://the-internet.herokuapp.com/login, log in with username tomsmith and password SuperSecretPassword! and verify the secure area message is shown
+Go to https://www.saucedemo.com, log in with username standard_user and password secret_sauce, and verify Products is shown
