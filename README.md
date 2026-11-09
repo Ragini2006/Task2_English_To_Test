@@ -20,6 +20,7 @@ The tool repeats a simple 3-step loop:
              the screen, the pass is rejected!
 
 
+
 2. HOW TO SET UP & RUN (COMMANDS)
 --------------------------------------------------------------------------------
 Open PowerShell inside your task2 folder:
