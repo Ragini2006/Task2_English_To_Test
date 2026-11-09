@@ -2,7 +2,7 @@
           TASK 2: PLAIN-ENGLISH TEST AUTOMATION (PYTHON + PLAYWRIGHT + GEMINI)
 
 
-1. WHAT IT IS & HOW IT WORKS (IN SIMPLE WORDS)
+1). WHAT IT IS & HOW IT WORKS (IN SIMPLE WORDS)
 --------------------------------------------------------------------------------
 You write what to test in normal plain English (no code, no XPath, no selectors):
 > "Go to https://the-internet.herokuapp.com/login, log in with username tomsmith 
@@ -21,7 +21,8 @@ The tool repeats a simple 3-step loop:
 
 
 
-2. HOW TO SET UP & RUN (COMMANDS)
+
+2). HOW TO SET UP & RUN (COMMANDS)
 --------------------------------------------------------------------------------
 Open PowerShell inside your task2 folder:
 cd C:\Users\Ragini\Downloads\task2-english-to-test_claudeMade\task2-english-to-test
@@ -51,7 +52,7 @@ Step 7: Check test reports and step screenshots:
 explorer runs
 
 
-3. LIMITATIONS (IN SHORT & SIMPLE WORDS)
+3). LIMITATIONS (IN SHORT & SIMPLE WORDS)
 --------------------------------------------------------------------------------
 1. Slower than Hardcoded Scripts: 
    - Because it consults an AI model at each step, a test takes 15 to 45 seconds instead of 2 seconds.
